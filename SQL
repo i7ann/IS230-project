@@ -1,5 +1,4 @@
 CREATE DATABASE Car_DB;
-Query OK, 1 row affected (0.001 sec)
 
 USE Car_DB;
 
